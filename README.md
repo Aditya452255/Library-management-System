@@ -43,9 +43,9 @@ GET: Get all issued books with their fine amount
     >> Standard (6 months)
     >> Premium (12 months)
 
-> > If a user missed the renewal date, then user should be collected with $100
-> > If a user misses his subscription, then user is expected to pay $100
-> > If a user misses both renewal & subscription, then the collected amount should be $200
+> > If a user missed the renewal date, then user should be collected with  ₹100
+> > If a user misses his subscription, then user is expected to pay  ₹100
+> > If a user misses both renewal & subscription, then the collected amount should be  ₹150
 
 ## Commands:
 
@@ -57,12 +57,12 @@ npm run dev --> to start te appln
 
 To restore node_modules and package-lock.json --> npm i/npm install
 
-npm i mongoose
+npm i mongoosef
 npm install mongodb
 
-mongodb+srv://rohankinnal1917:<db_password>@cluster0.v4yias1.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+mongodb+srv://Aditya45225:<db_password>@cluster0.v4yias1.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 EJOCHEEAheUjejJJ
-mongodb+srv://rohankinnal1917:EJOCHEEAheUjejJJ@cluster0.v4yias1.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+mongodb+srv://Aditya45225:EJOCHEEAheUjejJJ@cluster0.v4yias1.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 
 npm i dotenv
 

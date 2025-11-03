@@ -1,0 +1,26 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "This is a library managment API Backend for the managment of users and the books",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aditya452255/Library-management-System.git"
+  },
+  "author": "Aditya Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aditya452255/Library-management-System/issues"
+  },
+  "homepage": "https://github.com/Aditya452255/Library-management-System#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
